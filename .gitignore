@@ -1,0 +1,7 @@
+# ignore scraper.py 
+/scraper.py
+/VideoPlayer.py
+
+# ignore downloaded
+/downloaded
+
